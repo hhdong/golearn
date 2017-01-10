@@ -8,7 +8,7 @@ func printArry(arr [3]int) {
 	for _, v := range arr {
 		fmt.Printf("%d ", v)
 	}
-	fmt.Println("\n")
+	fmt.Println("")
 }
 
 func main() {
